@@ -1,0 +1,5 @@
+node_modules
+model
+.env
+package-lock.json
+src/services/deploy-model-441207-818a77951609.json
